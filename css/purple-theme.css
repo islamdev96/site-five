@@ -1,0 +1,36 @@
+/**** Start Default Theme ****/
+
+.option-box .color-option ul li,
+.option-box .gear-check,
+.navbar-default .navbar-collapse, .navbar-default .navbar-form
+
+{
+    background-color: #E426D8;
+}
+
+
+.navbar-default,
+.navbar-brand span,
+.features .feat span.glyphicon,
+.footer h3,
+.footer .copyright span
+{
+    color: #E426D8;
+}
+
+
+.option-box .color-option 
+{
+    border: 4px solid #E426D8;
+}
+
+
+/**** End Default Theme ****/
+
+
+
+
+
+
+
+
